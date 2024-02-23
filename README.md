@@ -1,8 +1,5 @@
 # FitBit-Data-Insight
 Analyzing FitBit data to uncover fitness trends and health insights
-#### Goal of the Analysis
-The primary goal of this analysis was to explore and understand patterns in daily physical activity and sleep habits among users of fitness tracking devices. By examining average daily steps and average sleep duration, we aimed to uncover insights that could inform health and wellness strategies.
-# Fitbit Data Analysis for Bellabeat Marketing Strategy
 
 ## Overview
 
